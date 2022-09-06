@@ -1,0 +1,10 @@
+Welcome to Maxwell's Demon!
+
+The game contains four files, Fun.java, Ball.java, Red_Ball.java, Blue_Ball.java.
+Red_Ball and Blue_Ball are inherited classes of Ball class.
+The Fun class contains main() to start.
+Please compile all the classes and run Fun.java!
+
+Sadly, there are no special features in this game due to the repercussions of the Coronoa Virus.
+
+Thanks for playing the game and have a great summer vacation!
